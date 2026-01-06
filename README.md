@@ -100,7 +100,7 @@ We use the following labels to organize issues:
 ## Installation Guide
 
 1.  **Download:** Go to the **[Releases](https://github.com/CyberByteCraft/Furya-Public/releases/latest)** tab.
-2.  **Get the APK:** Download `app-arm64-v8a-release.apk` (Best for 99% of phones) or `app-release.apk` (Universal).
+2.  **Get the APK:** Download `Furya-...-arm64-v8a.apk` (Best for 99% of phones) or `Furya-...-armeabi-v7a.apk` (Old devices).
 3.  **Install:** Open the file. You may need to enable "Install from Unknown Sources" in your browser settings.
 
 ---
