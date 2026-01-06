@@ -1,4 +1,4 @@
-# <img src="assets/furya_logo.png" width="40" height="40" alt="Logo"/> Furya - The Ultimate e621 Experience
+# <img src="assets/furya_logo.png" width="40" height="40" alt="Logo"/> Furya
 
 <div align="center">
   <img src="assets/furya_logo.png" alt="Furya Large Logo" width="180" height="180">
