@@ -23,7 +23,7 @@
 
 ---
 
-## 🧐 What is Furya?
+## What is Furya?
 
 **Furya** is a native Android application built from the ground up to provide a superior browsing experience for the e621 image board. Unlike simple web-wrappers, Furya caches data intelligently, preloads content, and offers features that power-users need.
 
@@ -31,7 +31,7 @@ Whether you are browsing casually or managing large collections of favorites, Fu
 
 ---
 
-## ✨ Key Features & Capabilities
+## Key Features & Capabilities
 
 ### ⚡ Performance & Display
 *   **Infinite Masonry Grid:** A staggered, Pinterest-style layout that adapts perfectly to your phone's aspect ratio.
@@ -73,7 +73,7 @@ Whether you are browsing casually or managing large collections of favorites, Fu
 
 ---
 
-## 🤝 Support & Feedback
+## Support & Feedback
 
 We use GitHub Issues to track bugs and feature requests.
 
@@ -97,7 +97,7 @@ We use the following labels to organize issues:
 
 ---
 
-## 📲 Installation Guide
+## Installation Guide
 
 1.  **Download:** Go to the **[Releases](https://github.com/CyberByteCraft/Furya-Public/releases/latest)** tab.
 2.  **Get the APK:** Download `app-arm64-v8a-release.apk` (Best for 99% of phones) or `app-release.apk` (Universal).
@@ -105,7 +105,7 @@ We use the following labels to organize issues:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This application is a third-party client. It accesses public APIs provided by e621.net.
 Furya is not affiliated with, endorsed by, or sponsored by e621.
