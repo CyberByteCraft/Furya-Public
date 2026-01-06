@@ -74,6 +74,30 @@ Whether you are browsing casually or managing large collections of favorites, Fu
 
 ---
 
+## 🤝 Support & Feedback
+
+We use GitHub Issues to track bugs and feature requests.
+
+### Found a Bug? 🐛
+If the app crashes or behaves unexpectedly:
+1.  Check if the bug is already reported in the [Issues](https://github.com/CyberByteCraft/Furya-Public/issues) tab.
+2.  Open a **[Bug Report](https://github.com/CyberByteCraft/Furya-Public/issues/new?assignees=&labels=bug&template=bug_report.yml)**.
+3.  Please provide your **device model** and **Android version** so we can reproduce it.
+
+### Have an Idea? 🚀
+We love hearing what you want next!
+1.  Open a **[Feature Request](https://github.com/CyberByteCraft/Furya-Public/issues/new?assignees=&labels=enhancement&template=feature_request.yml)**.
+2.  Describe the problem you are trying to solve and your proposed solution.
+
+### Labels Guide
+We use the following labels to organize issues:
+*   <img src="https://img.shields.io/badge/-bug-d73a4a" alt="bug"/> **Bug**: Something isn't working.
+*   <img src="https://img.shields.io/badge/-enhancement-a2eeef" alt="enhancement"/> **Enhancement**: A new feature request.
+*   <img src="https://img.shields.io/badge/-question-d876e3" alt="question"/> **Question**: General questions or discussions.
+*   <img src="https://img.shields.io/badge/-ui-FFC107" alt="ui"/> **UI/UX**: Visual or design topics.
+
+---
+
 ## 📲 Installation Guide
 
 1.  **Download:** Go to the **[Releases](https://github.com/CyberByteCraft/Furya-Public/releases/latest)** tab.
