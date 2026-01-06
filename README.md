@@ -1,6 +1,5 @@
-# <img src="assets/furya_logo.png" width="40" height="40" alt="Logo"/> Furya
-
 <div align="center">
+  <h1>Furya</h1>
   <img src="assets/furya_logo.png" alt="Furya Large Logo" width="180" height="180">
   
   <h1>Fast. Modern. Powerful.</h1>
